@@ -3,7 +3,7 @@
 # Nithya Sree
 ### Aspiring Data Scientist · India
 
-![Data Science Student](https://img.shields.io/badge/Data%20Science%20Student-3C3489?style=flat-square&logoColor=white)
+![Data Science Student](https://img.shields.io/badge/Data%20Science%20Student-3C3489?style=flat-square&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Analytics%20%26%20Visualization-534AB7?style=flat-square&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-1D9E75?style=flat-square&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-D4537E?style=flat-square&logoColor=white)
